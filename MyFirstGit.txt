@@ -1,0 +1,2 @@
+ข้อ 4
+เพิ่มไฟล์ MyFirstGit.txt
